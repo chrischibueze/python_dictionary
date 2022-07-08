@@ -1,2 +1,2 @@
-# python_dictionay
+# python_dictionary
 Tricks in python dictionary
